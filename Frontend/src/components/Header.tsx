@@ -9,7 +9,6 @@ const navItems = [
   { label: 'Start Quiz', path: '/quiz', description: 'Start now to meet your perfect Valentine!' },
   { label: 'Gift Ideas', path: '/gifts', description: 'Find the perfect Valentine\'s gift!' },
   { label: 'Date Ideas', path: '/dates', description: 'Discover romantic date ideas!' },
-  { label: 'Ask AI', path: '/chat', description: 'Get personalized recommendations!' },
 ];
 
 export const Header: React.FC = () => {
