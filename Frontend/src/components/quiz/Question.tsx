@@ -32,7 +32,7 @@ export const Question: React.FC<QuestionProps> = ({ questionIndex }) => {
       initial={{ opacity: 0, x: 20 }}
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: -20 }}
-      className="Quiz max-w-2xl mx-auto p-6 dark:bg-gray-800 rounded-xl shadow-xl"
+      className="bg-white max-w-2xl mx-auto p-6 dark:bg-gray-800 rounded-xl shadow-xl"
     >
       <div className="mb-8">
         <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2 mb-6">

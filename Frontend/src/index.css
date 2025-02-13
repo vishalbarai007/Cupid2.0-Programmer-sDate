@@ -29,7 +29,21 @@
   animation: float 3s ease-in-out infinite;
 }
 
+/* Custom fonts */
+body {
+  font-family: "DynaPuff", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .Quiz{
-  background-image: url("/project/public/images/Bg.webp");
+  background-image: url("/images/Bg.webp");
   background-size: cover;
+}
+
+.Questions{
+ background-image: url("/images/PD$.jpeg");
+ background-size: cover;
+
 }

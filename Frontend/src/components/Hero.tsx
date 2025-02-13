@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
           transition={{ duration: 0.6 }}
           className="max-w-3xl mx-auto"
         >
-          <img src="/images/PD3.jpeg " className='h-40 w-40 rounded-full absolute right-10' />
+          <img src="/images/PD3.jpeg " className='h-40 w-40 rounded-full absolute top-52 right-10' />
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 dark:text-white mb-6">
             Discover Your Unconventional Valentine!
           </h1>
@@ -42,9 +42,9 @@ export const Hero: React.FC = () => {
           <img
             src="/images/Hero.webp"
             alt="Valentine's Day themed decorative image"
-            className="rounded-lg shadow-xl mx-auto max-w-2xl"
+            className="rounded-lg shadow-xl mx-auto sm:max-w-xl md:max-w-2xl lg:max-w-2xl "
           />
-          <img src="/images/PD1.jpeg " className='h-40 w-40 rounded-full absolute left-10 bottom-40' />
+          <img src="/images/PD1.jpeg " className='h-40 w-40 rounded-full absolute left-10 bottom-0' />
 
         </motion.div>
       </div>

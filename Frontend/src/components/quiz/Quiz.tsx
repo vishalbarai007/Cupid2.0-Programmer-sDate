@@ -11,6 +11,7 @@ export const Quiz: React.FC = () => {
 
   return (
     <div className="Quiz min-h-screen pt-20 pb-12 px-4 bg-gradient-to-br from-pink-50 to-purple-50 dark:from-pink-900 dark:to-purple-900">
+
       <div className="container mx-auto">
         <AnimatePresence mode="wait">
           {currentStep === 0 ? (
@@ -22,6 +23,7 @@ export const Quiz: React.FC = () => {
           )}
         </AnimatePresence>
       </div>
+      <img src="/images/PD$.jpeg" alt="" className='rounded-full h-48 w-48' />
     </div>
   );
 };
