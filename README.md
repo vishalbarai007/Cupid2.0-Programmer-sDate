@@ -3,8 +3,10 @@
 Cupid2.0 is an interactive web platform designed to make dating fun, easy, and stress-free! Developed during the **Programmer's Date Hackathon** on **February 13th**, this app helps users find their perfect match, explore unique date ideas, get personalized gift recommendations, and chat with an AI-powered assistant named **Cupid**.  
 
 Whether you're planning a romantic evening or just need a little help in the love department, Cupid2.0 has got you covered! 💝  
+![Untitled design (13)](https://github.com/user-attachments/assets/9f64e9ba-e0dc-46df-a9c1-66ecc27c8bb7)
 
 ---  
+
 
 ## 🌟 Features  
 
