@@ -74,7 +74,7 @@ Cupid2.0 will be running at **`http://localhost:5173/`** (Vite default).
 
 Cupid2.0 was created in a **limited timeframe** but with **maximum passion** to enhance your dating experience. Whether you're single, taken, or somewhere in between, Cupid2.0 is here to add some spark to your love life!  
 
-Made with ❤️ by **[Your Name/Team Name]** at **Programmer’s Date Hackathon** 🚀  
+Made with ❤️ by **Yug and Vishal ** at **Programmer’s Date 3.0** 🚀  
 
 ---  
 
