@@ -45,7 +45,7 @@ Cupid2.0 is built with a modern and efficient tech stack to ensure a seamless us
 
 1️⃣ **Clone the repository**  
 ```sh  
-git clone https://github.com/your-username/cupid2.0.git  
+git clone (https://github.com/vishalbarai007/Cupid2.0-Programmer-sDate.git)  
 cd cupid2.0  
 ```
 
